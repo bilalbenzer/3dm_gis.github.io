@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Meydan Mahallesi 123-ada-385-parsel</name>
+    <ExtendedData>
+      <Data name="İl">
+        <value>Kütahya</value>
+      </Data>
+      <Data name="İlçe">
+        <value>Merkez</value>
+      </Data>
+      <Data name="Mahalle">
+        <value>Meydan</value>
+      </Data>
+      <Data name="Ada">
+        <value>123</value>
+      </Data>
+      <Data name="ParselNo">
+        <value>385</value>
+      </Data>
+      <Data name="Alan">
+        <value>255.00</value>
+      </Data>
+      <Data name="Pafta">
+        <value>25</value>
+      </Data>
+      <Data name="Nitelik">
+        <value>Arsa</value>
+      </Data>
+      <Data name="Mevkii">
+        <value />
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>29.985869999999998,39.423430000000003
+29.98573,39.423560000000002
+29.985610000000001,39.423490000000001
+29.985749999999999,39.423349999999999
+29.985869999999998,39.423430000000003</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</kml>
